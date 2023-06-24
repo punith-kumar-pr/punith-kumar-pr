@@ -18,13 +18,7 @@ Welcome to my GitHub profile! I'm [Punith Kumar P R], and I'm passionate about [
 
 I'm always excited to explore new tools and frameworks and expand my skillset.
 
-## Projects
-
-Here are a few noteworthy projects I've worked on:
-
-- [Project 1]: Brief description of the project, technologies used, and its significance.
-- [Project 2]: Brief description of the project, technologies used, and its significance.
-- [Project 3]: Brief description of the project, technologies used, and its significance.
+-
 
 For a complete list of my projects, please visit my [portfolio website](not-yet-created.com).
 
