@@ -41,7 +41,7 @@ I love to connect with fellow developers and engage in meaningful conversations.
  
 Feel free to reach out if you have any questions, suggestions, or just want to say hi!
 
---
+-------
 
 Looking forward to collaborating and learning together! 🚀
 
