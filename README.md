@@ -34,6 +34,11 @@ For a complete list of my projects, please visit my [portfolio website](not-yet-
 
 I love to connect with fellow developers and engage in meaningful conversations. You can find me on:
 
+<p align="left">
+<a href="https://linkedin.com/in/punith-kumar-pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punith-kumar-pr" height="30" width="40" /></a><br/>
+<a href="https://instagram.com/punith_kumar_pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="punith_kumar_pr" height="30" width="40" /></a>
+</p>
+
 - [LinkedIn](your-linkedin-profile-url)
 - [Twitter](your-twitter-profile-url)
 - [Your Portfolio Website](your-portfolio-website-url)
