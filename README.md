@@ -20,7 +20,7 @@ I'm always excited to explore new tools and frameworks and expand my skillset.
 
 <hr/>
 
-For a complete list of my projects, please visit my [portfolio website](not-yet-created.com).
+For a complete list of my projects, please visit my [portfolio website](not-yet-created.com) Yet to be created 😁😅.
 
 ## Connect with Me
 
