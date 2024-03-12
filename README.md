@@ -2,13 +2,12 @@
 
 Welcome to my GitHub profile! I'm [Punith Kumar P R], and I'm passionate about [Development]. I love to explore new technologies and create innovative solutions to real-world problems.
 ## About Me
+I'm always excited to explore new tools and frameworks and expand my skillset.
 
-- 🌱 I'm constantly learning and honing my skills in **MERN stack, Next.js, Blockchain, Python, C++**.
-- 💡 I enjoy collaborating on projects and learning from others in the developer community.
+- 🌱 I'm constantly learning and honing my skills in **Full Stack Development**.
+- 💡 I enjoy collaborating on projects and learning from others and sharing what I know.
 - 🎓 Pursuing with a degree in **Computer Science & Engineering** in **Dayananda Sagar College of Engineering**.
 - 📫 Reach me **punikumar2002@gmail.com , punithkumarpr03@gmail.com**
-
-I'm always excited to explore new tools and frameworks and expand my skillset.
 
 <hr/>
 
