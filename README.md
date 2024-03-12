@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Punith Kumar P R</h1>
 
-Welcome to my GitHub profile! I'm [Punith Kumar P R], and I'm passionate about [Development]. I love to explore new technologies and create innovative solutions to real-world problems.
+Welcome to my GitHub profile! I'm an **Engineer**, and I'm passionate about **Development**. I love to explore new technologies and create innovative solutions to real-world problems.
+
 ## About Me
 I'm always excited to explore new tools and frameworks and expand my skillset.
 
