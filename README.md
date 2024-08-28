@@ -22,6 +22,6 @@ I'm a passionate developer with a keen interest in web development, and building
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=punith-kumar-pr&show_icons=true&theme=radical)
 
 Thanks for stopping by! 😊
