@@ -1,32 +1,27 @@
-<h1 align="center">Hi 👋, I'm Punith Kumar P R</h1>
+# Hi there! 👋 I'm [Punith Kumar P R]
 
-Welcome to my GitHub profile! I'm an **Engineer**, and I'm passionate about **Development**. I love to explore new technologies and create innovative solutions to real-world problems.
+I'm a passionate developer with a keen interest in web development, and building innovative applications. I love learning new technologies and applying them to solve real-world problems. 
+- I recently completed a 6-month internship as an Associate Engineer Intern at BT Group.
 
-## About Me
-I'm always excited to explore new tools and frameworks and expand my skillset.
+## 🌱 What I'm Currently Working On
+- **Moovy:** A movies application similar to IMDb using Spring Boot, Java 21, and MySQL.
 
-- 🌱 I'm constantly learning and honing my skills in **Full Stack Development**.
-- 💡 I enjoy collaborating on projects and learning from others and sharing what I know.
-- 🎓 Pursuing with a degree in **Computer Science & Engineering** in **Dayananda Sagar College of Engineering**.
-- 📫 Reach me **punikumar2002@gmail.com , punithkumarpr03@gmail.com**
+## 🛠 Skills & Tools
+- **Frontend:** HTML, CSS, JavaScript, ReactJS, Tailwind CSS
+- **Backend:** Java, Spring Boot, NodeJS, Express
+- **Blockchain:** Hardhat, Ethereum, MetaMask
+- **Database:** MySQL, PostgreSQL, SQL
+- **Others:** Web Scraping (Node.js), Git, GitHub
 
-<hr/>
+## 📚 I'm Currently Learning
+- DSA in depth
 
-Visit my [portfolio website](https://punithkumarpr.netlify.app).
+## 📫 How to Reach Me
+- **LinkedIn:** [punith-kumar-pr](https://linkedin.com/in/punith-kumar-pr)
+- **Email:** [punithkumarpr03@gmail.com](mailto:punithkumarpr03@gmail.com) or [punikumar2002@gmail.com](mailto:punikumar2002@gmail.com)
 
-## Connect with Me
+## 📈 My GitHub Stats
 
-I love to connect with fellow developers and engage in meaningful conversations and also some useless conversations😁. You can find me on:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-<p align="left">
-  
-<a href="https://linkedin.com/in/punith-kumar-pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punith-kumar-pr" height="30" width="40" /></a>
-<a href="https://instagram.com/punith_kumar_pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="punith_kumar_pr" height="30" width="40" /></a>
-</p>
- 
-Feel free to reach out if you have any suggestions, questions or just want to say hi!
-
--------
-
-Looking forward to collaborating and learning together! 🚀
-
+Thanks for stopping by! 😊
