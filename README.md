@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Punith Kumar P R]
+# Hi there! 👋 I'm Punith Kumar P R
 
 I'm a passionate developer with a keen interest in web development, and building innovative applications. I love learning new technologies and applying them to solve real-world problems. 
 - I recently completed a 6-month internship as an Associate Engineer Intern at BT Group.
