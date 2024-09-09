@@ -1,17 +1,17 @@
 # Hi there! 👋 I'm Punith Kumar P R
 
-I'm a passionate developer with a keen interest in web development, and building innovative applications. I love learning new technologies and applying them to solve real-world problems. 
+I'm a passionate CSE grad with a keen interest in software development, and building innovative applications. I love learning new technologies and applying them to solve real-world problems. 
 - I recently completed a 6-month internship as an Associate Engineer Intern at BT Group.
 
 ## 🌱 What I'm Currently Working On
 - **Moovy:** A movies application similar to IMDb using Spring Boot, Java 21, and MySQL.
 
 ## 🛠 Skills & Tools
-- **Frontend:** HTML, CSS, JavaScript, ReactJS, Tailwind CSS
-- **Backend:** Java, Spring Boot, NodeJS, Express
-- **Blockchain:** Hardhat, Ethereum, MetaMask
-- **Database:** MySQL, PostgreSQL, SQL
-- **Others:** Web Scraping (Node.js), Git, GitHub
+- **Languages:** C/C++, Python, Java, SQL, Javascript
+- **Frontend:** HTML, CSS, ReactJS, Tailwind CSS
+- **Backend:** Spring Boot, NodeJS, Express
+- **Database:** MySQL, PostgreSQL
+- **Others:** Git, GitHub, Gitlab CI/CD, Docker
 
 ## 📚 I'm Currently Learning
 - DSA in depth
