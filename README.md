@@ -15,6 +15,8 @@ I'm a passionate CSE grad with a keen interest in software development, and buil
 
 ## 📚 I'm Currently Learning
 - DSA in depth
+- Consistently solving problems on leetcode.
+- Consistently learning things in Computer Science.
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [punith-kumar-pr](https://linkedin.com/in/punith-kumar-pr)
