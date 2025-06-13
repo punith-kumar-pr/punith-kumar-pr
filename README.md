@@ -1,20 +1,23 @@
 # Hi there! 👋 I'm Punith Kumar P R
 
-I'm a passionate CSE grad with a keen interest in software development, and building innovative applications. I love learning new technologies and applying them to solve real-world problems. 
-- I recently completed a 6-month internship as an Associate Engineer Intern at BT Group.
+... just another Computer Science Engineer 😁 you seen.
+- Currently I'm a **Software Engineer - Android** at [**Motorola**](https://www.linkedin.com/company/motorola-mobility)
+- Ex-Associate Engineer Intern at [**BT Group (British Telecom)**](https://www.linkedin.com/company/bt)
 
 ## 🌱 What I'm Currently Working On
 - **Moovy:** A movies application similar to IMDb using Spring Boot, Java 21, and MySQL.
 
 ## 🛠 Skills & Tools
-- **Languages:** C/C++, Python, Java, SQL, Javascript
+- **Languages:** C/C++, Python, Java, SQL, Javascript, Kotlin
+- **Android:** Java, Kotlin, Jetpack Compose
 - **Frontend:** HTML, CSS, ReactJS, Tailwind CSS
 - **Backend:** Spring Boot, NodeJS, Express
 - **Database:** MySQL, PostgreSQL
 - **Others:** Git, GitHub, Gitlab CI/CD, Docker
 
 ## 📚 I'm Currently Learning
-- DSA in depth
+- Android Dev in Kotlin with Jetpack Compose.
+- DSA in depth.
 - Consistently solving problems on leetcode.
 - Consistently learning things in Computer Science.
 
